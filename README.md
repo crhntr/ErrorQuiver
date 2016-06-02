@@ -7,8 +7,8 @@ Implements the error interface
 **93.8% test coverage**
 
 It is usefull when validating struct atrributes when you want to return a list of errors to the user.
-## For Example 
-See Example_test for full working test code which calls this function
+## Example 
+See [This Test](https://github.com/hunter-r-christopher/ErrorQuiver/blob/master/Example_test.go) for full working example test code which calls this function
 ```go
 
 func (user *User) Validate() error {
