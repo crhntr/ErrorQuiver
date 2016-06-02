@@ -1,6 +1,6 @@
-# ErrorSlice
+# ErrorQuiver
 
-ErrorSlice is a lightweight package to make hadling multiple errors that need to be returned together easier.
+ErrorSlice is a lightweight package to make handling multiple errors that need to be returned together easier.
 
 Implements the error interface
 
