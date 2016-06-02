@@ -4,7 +4,7 @@ ErrorSlice is a lightweight package to make hadling multiple errors that need to
 
 Implements the error interface
 
-**100% test coverage**
+**93.8% test coverage**
 
 It is usefull when validating struct atrributes when you want to return a list of errors to the user.
 ## For Example 
