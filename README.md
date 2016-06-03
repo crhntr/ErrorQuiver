@@ -8,7 +8,7 @@ Implements the error interface
 
 It is usefull when validating struct atrributes when you want to return a list of errors to the user.
 ## Example 
-See [This Test](https://github.com/hunter-r-christopher/ErrorQuiver/blob/master/Example_test.go) for full working example test code which calls this function
+See [this test](https://github.com/hunter-r-christopher/ErrorQuiver/blob/master/Example_test.go) for full working example test code which calls this function
 ```go
 
 func (user *User) Validate() error {
