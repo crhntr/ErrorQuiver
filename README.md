@@ -6,7 +6,6 @@ Implements the error interface
 
 **93.8% test coverage**
 
-It is usefull when validating struct atrributes when you want to return a list of errors to the user.
 ## Example 
 See [this test](https://github.com/hunter-r-christopher/ErrorQuiver/blob/master/Example_test.go) for full working example test code which calls this function
 ```go
