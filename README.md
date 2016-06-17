@@ -1,6 +1,6 @@
 # ErrorQuiver
 
-ErrorQuiver is convienient and lightweight package wrapping a slice of errors.
+ErrorQuiver is a convienient and lightweight package wrapping a slice of errors.
 
 Implements the error interface
 
