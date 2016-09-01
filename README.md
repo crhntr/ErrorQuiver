@@ -4,6 +4,8 @@ ErrorQuiver is a convienient and lightweight package wrapping a slice of errors.
 
 Implements the error interface
 
+Although this package is fun and has earned it's place in a few of my projects, check out [pkg/errors](https://github.com/pkg/errors).
+
 **93.8% test coverage**
 
 ## Example 
